@@ -1,0 +1,2 @@
+../Drivers/Modules/button_driver.c:11:6:button_driver_init	1
+../Drivers/Modules/button_driver.c:21:5:button_driver_get_state	2
